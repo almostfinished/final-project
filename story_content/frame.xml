@@ -1575,7 +1575,7 @@
             <slidelink slideid="_player.5dYndCNhV9m.6CmECvrH6kq" displaytext="How to process FTCE scores   " expand="false" type="slide" />
             <slidelink slideid="_player.5dYndCNhV9m.6On97PQRqHD" displaytext="Learning objectives" expand="false" type="slide" />
             <slidelink slideid="_player.5dYndCNhV9m.5V3zx9ldRXw" displaytext="About this course" expand="false" type="slide" />
-            <slidelink slideid="_player.5dYndCNhV9m.6TBFIAN3tll" displaytext="Three lessons – click a number to launch" expand="false" type="slide" />
+            <slidelink slideid="_player.5dYndCNhV9m.6TBFIAN3tll" displaytext="Four lessons – click a number to launch" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6kbIHNfELQ3" displaytext="Fetch the files" expand="true" type="slide">
@@ -1613,8 +1613,8 @@
         </slidelink>
         <slidelink slideid="_player.6TugPMP631Y" displaytext="Document the details" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6TugPMP631Y.6MIQWw1OHkj" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6TugPMP631Y.6pJ5gwRuZLi" displaytext="Get ready to enter scores" expand="false" type="slide" />
+            <slidelink slideid="_player.5cUXHxMjrea.6MIQWw1OHkj" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6TugPMP631Y.6pJ5gwRuZLi" displaytext="Get ready to click, copy, and paste" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.6gFmSxLyoJ7" displaytext="Recommended arrangement " expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.5knvVEXvSc3" displaytext="Start in Colleague" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.6Iqmu0MXpn1" displaytext="Find your student" expand="false" type="slide" />
@@ -1624,8 +1624,18 @@
             <slidelink slideid="_player.6TugPMP631Y.6Ku25ezx90d" displaytext="Grab some details from the TSUM screen" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.5VOoXfuY8z7" displaytext="Edit the spreadsheet" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.68iXnnXPvhc" displaytext="Swap one, type the other" expand="false" type="slide" />
-            <slidelink slideid="_player.6TugPMP631Y.6QMJhiv3rdr" displaytext="Let’s enter some test scores" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.6ZiD23XjBDK" displaytext="Hed goes here" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5cUXHxMjrea" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5cUXHxMjrea.5d7HBnWRH5F" displaytext="Untitled Slide" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5rb6YUhUtFu" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5rb6YUhUtFu.6AvnHIq72rp" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5rb6YUhUtFu.5qjS6AYjT9c" displaytext="Let’s enter some test scores" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
