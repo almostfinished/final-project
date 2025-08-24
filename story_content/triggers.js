@@ -2,6 +2,9 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
+      case "6QX0WGv8yfM":
+        Script1();
+        break;
   }
 }
 
@@ -20,4 +23,21 @@ var showPointer = player.showPointer;
 var hidePointer = player.hidePointer;
 var slideWidth = player.slideWidth;
 var slideHeight = player.slideHeight;
+window.Script1 = function()
+{
+  const target = object('6YAHhreO4Mb');
+const duration = 750;
+const easing = 'ease-out';
+const id = '6kkFMtRkslR';
+const growAmount = 0.2;
+player.addForTriggers(
+id,
+target.animate(
+[ {scale: `${1 + growAmount}` } ]
+,
+  { fill: 'forwards', duration, easing }
+)
+);
+}
+
 };
