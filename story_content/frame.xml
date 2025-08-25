@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="How to process FTCE scores   " />
+              <option name="title_text" value="How to Process FTCE Scores   " />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1572,10 +1572,10 @@
       <links>
         <slidelink slideid="_player.5dYndCNhV9m" displaytext="Intro Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5dYndCNhV9m.6CmECvrH6kq" displaytext="How to process FTCE scores   " expand="false" type="slide" />
-            <slidelink slideid="_player.5dYndCNhV9m.6On97PQRqHD" displaytext="Learning objectives" expand="false" type="slide" />
+            <slidelink slideid="_player.5dYndCNhV9m.6CmECvrH6kq" displaytext="How to Process FTCE Scores   " expand="false" type="slide" />
+            <slidelink slideid="_player.5dYndCNhV9m.6On97PQRqHD" displaytext="Learning objectives for the course" expand="false" type="slide" />
             <slidelink slideid="_player.5dYndCNhV9m.5V3zx9ldRXw" displaytext="About this course" expand="false" type="slide" />
-            <slidelink slideid="_player.5dYndCNhV9m.6TBFIAN3tll" displaytext="Four lessons – click a number to launch" expand="false" type="slide" />
+            <slidelink slideid="_player.5dYndCNhV9m.6TBFIAN3tll" displaytext="Three lessons – click a number to launch" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6kbIHNfELQ3" displaytext="Fetch the files" expand="true" type="slide">
@@ -1592,13 +1592,12 @@
             <slidelink slideid="_player.6kbIHNfELQ3.6MHLL0SjmSB" displaytext="Tighten your focus" expand="false" type="slide" />
             <slidelink slideid="_player.6kbIHNfELQ3.6dufeILzyrA" displaytext="Download two FTCE files" expand="false" type="slide" />
             <slidelink slideid="_player.6kbIHNfELQ3.5kbV7iS8ygX" displaytext="Locate your downloaded files" expand="false" type="slide" />
-            <slidelink slideid="_player.6kbIHNfELQ3.6jNMx6WjAYj" displaytext="Great job!" expand="false" type="slide" />
+            <slidelink slideid="_player.6kbIHNfELQ3.5lPlcL5nU2p" displaytext="Check your knowledge" expand="false" type="slide" />
             <slidelink slideid="_player.6kbIHNfELQ3.5fXkECxfLi6" displaytext="Tighten your focus" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5omoriX5f7R" displaytext="Import the info" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5omoriX5f7R.6FuT788hbSG" displaytext="Hed goes here" expand="false" type="slide" />
             <slidelink slideid="_player.5omoriX5f7R.6EjwbZA2Kve" displaytext="Locate your downloaded files" expand="false" type="slide" />
             <slidelink slideid="_player.5omoriX5f7R.6jIqenq7zAq" displaytext="Same scores, different formats" expand="false" type="slide" />
             <slidelink slideid="_player.5omoriX5f7R.6JeLPealyvt" displaytext="Drag, drop, and ditch the long name" expand="false" type="slide" />
@@ -1608,12 +1607,10 @@
             <slidelink slideid="_player.5omoriX5f7R.5g9D5cKgOE4" displaytext="Peek under the hood" expand="false" type="slide" />
             <slidelink slideid="_player.5omoriX5f7R.66QoXLR3XGa" displaytext="Peek under the hood" expand="false" type="slide" />
             <slidelink slideid="_player.5omoriX5f7R.6OGrIdJ24Pk" displaytext="Peek under the hood" expand="false" type="slide" />
-            <slidelink slideid="_player.5omoriX5f7R.6XQSeliBaR5" displaytext="Great job!" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6TugPMP631Y" displaytext="Document the details" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5cUXHxMjrea.6MIQWw1OHkj" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.6pJ5gwRuZLi" displaytext="Get ready to click, copy, and paste" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.6gFmSxLyoJ7" displaytext="Recommended arrangement " expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.5knvVEXvSc3" displaytext="Start in Colleague" expand="false" type="slide" />
@@ -1624,18 +1621,37 @@
             <slidelink slideid="_player.6TugPMP631Y.6Ku25ezx90d" displaytext="Grab some details from the TSUM screen" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.5VOoXfuY8z7" displaytext="Edit the spreadsheet" expand="false" type="slide" />
             <slidelink slideid="_player.6TugPMP631Y.68iXnnXPvhc" displaytext="Swap one, type the other" expand="false" type="slide" />
-            <slidelink slideid="_player.6TugPMP631Y.6ZiD23XjBDK" displaytext="Hed goes here" expand="false" type="slide" />
+            <slidelink slideid="_player.6TugPMP631Y.5rnr72ZXl50" displaytext="Unusual situations " expand="false" type="slide" />
+            <slidelink slideid="_player.6TugPMP631Y.6OWm0sjAcqM" displaytext="Check your knowledge" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5cUXHxMjrea" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.6nQDqoXSxLL" displaytext="FETCH THE FILES: TRY IT" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5cUXHxMjrea.5d7HBnWRH5F" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6PVaIarSIs4" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6oJO2pABQvI" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5dOPjVc1eMU" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5bU2rKUIgP6" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5uamOVZykL3" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5VE7BBkJQ6Q" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6SRdPOwlsVz" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5aXpz7bThpF" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.5iu4XYIQUwK" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6WWdjnrMI4r" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6nC9qunhkaI" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.636C1z7Dht9" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6bAP0GpD7A5" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6nQDqoXSxLL.6ClWSyPCRwb" displaytext="GREAT JOB!" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.5rb6YUhUtFu" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5vhy072MhjZ" displaytext="DOCUMENT THE DETAILS: TRY IT" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5rb6YUhUtFu.6AvnHIq72rp" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.5rb6YUhUtFu.5qjS6AYjT9c" displaytext="Let’s enter some test scores" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.6Bh1DpRoLjX" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.6HfhjZYNVym" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.5b07tPWX9XA" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.5yjvh5ZkCZm" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.69Jt02HgGBl" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.6ZMfzMraCaD" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5vhy072MhjZ.6Hp3kQz2oJk" displaytext="GREAT JOB!" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
